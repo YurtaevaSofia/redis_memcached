@@ -24,5 +24,6 @@
 
 ## Задание 3. Удаление по TTL в Memcached
 
+<img width="183" height="202" alt="Screenshot 2026-04-27 at 21 47 51" src="https://github.com/user-attachments/assets/b4b8b3b1-a49b-4469-a5db-2dedeab19d3c" />
 
 ## Задание 4. Запись данных в Redis
